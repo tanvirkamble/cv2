@@ -1,0 +1,22 @@
+
+body { 
+  background-color:#F38181; 
+     color: aliceblue;   }
+
+.dottedline{ size : 5px;
+   border-style: none ;
+   border-top-style: dotted;
+  color:#95E1D3 ;
+  
+  border-width: 5px;
+  width: 10%;
+}
+u{
+    color:maroon;
+}
+h1{
+    color: maroon;
+}
+h2{
+    color: maroon;
+}
